@@ -1,0 +1,8 @@
+# Nextflow directories
+work
+reports
+.nextflow*
+
+# SLURM
+slurm-*.out
+
